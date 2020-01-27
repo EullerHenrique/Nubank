@@ -2,5 +2,5 @@
 
 ###### https://eullerhenrique.github.io/Projeto_Nubank/
 
-![screencapture-eullerhenrique-github-io-Projeto-Nubank-2020-01-27-02_16_43](https://user-images.githubusercontent.com/48317736/73152760-d4b04e00-40af-11ea-810c-8b029c3c7bd7.png)
+![screencapture-eullerhenrique-github-io-Projeto-Nubank-2020-01-27-02_51_20](https://user-images.githubusercontent.com/48317736/73152783-ee519580-40af-11ea-856d-89ae07c6ede7.png)
 
