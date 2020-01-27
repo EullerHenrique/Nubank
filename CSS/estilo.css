@@ -1,0 +1,61 @@
+#home{
+    background: #8A05BE;
+    color: white;
+}
+
+.caixa{
+     padding: 60px 0;
+     border: 1px solid #e5e5e5;
+ }
+
+#NuConta_1 a, #Rewards_1 a{
+    background:  #8A05BE;
+    color: white;
+}
+
+
+h2{
+    color: #8A05BE;
+}
+
+p{
+    color: #767676;
+}
+
+#home p{
+    color: white;
+}
+
+#cards p{
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.font-up{
+    font-size: 18px;
+}
+
+
+.card-img-overlay{
+    padding: 0;
+}
+
+.btn-card{
+    width: 100%;
+    height: 100%;
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #8A05BE;
+    border-color: #8A05BE;
+}
+
+footer p a{
+    margin: 5px 15px;
+    color: #8A05BE;
+}
+
+
+
