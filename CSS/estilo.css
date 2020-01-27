@@ -57,5 +57,11 @@ footer p a{
     color: #8A05BE;
 }
 
+footer p a:link, footer p a:active, footer a:visited{
+    color: #8A05BE;
+    text-decoration: none;
+}
+
+
 
 
