@@ -10,7 +10,7 @@
 #### O foco deste projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIP e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com ORIENTAÇÃO A OBJETOS.
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
-![screencapture-eullerhenrique-github-io-Projeto-Nubank-login-html-2020-02-08-04_02_55](https://user-images.githubusercontent.com/48317736/74080947-f0104700-4a27-11ea-9647-3d10353c401a.png)
+![login](https://user-images.githubusercontent.com/48317736/74080996-978d7980-4a28-11ea-9b56-45f4b4bd9aee.png)
 
 ![screencapture-eullerhenrique-github-io-Projeto-Nubank-pagamento-html-2020-02-08-03_47_17](https://user-images.githubusercontent.com/48317736/74080941-c48d5c80-4a27-11ea-91c5-12425a3b05d9.png)
 
