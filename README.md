@@ -7,7 +7,7 @@
 
 
 #### O agendamento e a consulta de pagamentos do site Nubank foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-#### O foco deste projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIP e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com ORIENTAÇÃO A OBJETOS.
+#### O foco deste projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com ORIENTAÇÃO A OBJETOS.
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
 ![login](https://user-images.githubusercontent.com/48317736/74080996-978d7980-4a28-11ea-9b56-45f4b4bd9aee.png)
