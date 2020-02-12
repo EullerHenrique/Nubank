@@ -127,7 +127,7 @@
                 <?php } ?>
 
               <div class="row mt-5">
-                  <div class="col-6">
+                  <div class="col">
                       <a href="../07_PAGINAS_PRINCIPAIS/home.php" class="btn btn-lg btn-warning btn-block">Voltar</a>
                   </div>
               </div>
