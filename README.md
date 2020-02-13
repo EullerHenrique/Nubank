@@ -24,7 +24,7 @@
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-login-php-2020-02-12-21_03_51](https://user-images.githubusercontent.com/48317736/74388841-33c5d080-4ddb-11ea-9c79-8266e12522dc.png)
 
 ### Página de um administrador
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-21_05_05](https://user-images.githubusercontent.com/48317736/74388893-65d73280-4ddb-11ea-96d6-66a7b3e13f44.png)
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-22_30_49](https://user-images.githubusercontent.com/48317736/74392923-552cb980-4de7-11ea-9e7b-84cf99e7a3b6.png)
 ###### Obs: O administrador tem acesso aos chamados de todos os usuários, mas não tem acesso ao menu de pagamentos.
 
 ### Página de um usuário
