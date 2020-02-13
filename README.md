@@ -24,7 +24,7 @@
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-login-php-2020-02-12-21_03_51](https://user-images.githubusercontent.com/48317736/74388841-33c5d080-4ddb-11ea-9c79-8266e12522dc.png)
 
 ### Página de um administrador
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-22_30_49](https://user-images.githubusercontent.com/48317736/74392923-552cb980-4de7-11ea-9e7b-84cf99e7a3b6.png)
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-22_33_36](https://user-images.githubusercontent.com/48317736/74393065-b9e81400-4de7-11ea-9550-71ab407619a4.png)
 ###### Obs: O administrador tem acesso aos chamados de todos os usuários, mas não tem acesso ao menu de agendamento.
 
 ### Página de um usuário
