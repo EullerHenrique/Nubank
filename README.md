@@ -10,9 +10,11 @@
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
+### Agendamento de pagamento
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-PAGAMENTOS-pagamento-php-2020-02-12-21_39_11](https://user-images.githubusercontent.com/48317736/74390487-34ad3100-4de0-11ea-8f9b-786460f07ad2.png)
 
-
-
+### Histórico de agendamentos
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-PAGAMENTOS-consulta-php-2020-02-12-21_41_04](https://user-images.githubusercontent.com/48317736/74390564-76d67280-4de0-11ea-9b83-f3eb60475d34.png)
 
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT, JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) e PHP
