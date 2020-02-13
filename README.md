@@ -22,6 +22,22 @@
 
 ### Página de login
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-login-php-2020-02-12-21_03_51](https://user-images.githubusercontent.com/48317736/74388841-33c5d080-4ddb-11ea-9c79-8266e12522dc.png)
+## Login:
+
+## Administrador:
+
+# E-mail:adm@outlook.com
+# Senha: 1234
+
+# E-mai: user@outlook.com
+# Senha: 1234
+
+## Usuário: 
+# E-mail: jose@outlook.com
+# Senha: 1234
+
+# E-mai: maria@outlook.com
+# Senha: 1234
 
 ### Página de um administrador
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-22_33_36](https://user-images.githubusercontent.com/48317736/74393065-b9e81400-4de7-11ea-9550-71ab407619a4.png)
