@@ -1,0 +1,4 @@
+3#Meu empréstimo foi recusado#Empréstimo#O que preciso fazer para o meu empréstimo ser aceito?
+3#Perdi meu celular#NuConta#Como posso acessar minha Nuconta sem meu celular?
+3#Roubaram minha carteira#Cartão de crédito#Como eu bloqueio meu cartão?
+3#Meu dinheiro ainda não caiu na minha conta#Cartão de débito#Quantos dias demoram para o depósito ser realizado?
