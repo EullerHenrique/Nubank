@@ -18,7 +18,7 @@
 
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT, JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) e PHP
-#### Obs: Os dados são armazenados em um arquivo txt 
+##### Obs: Os dados são armazenados em um arquivo txt 
 
 ### Página de login
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-login-php-2020-02-12-21_03_51](https://user-images.githubusercontent.com/48317736/74388841-33c5d080-4ddb-11ea-9c79-8266e12522dc.png)
