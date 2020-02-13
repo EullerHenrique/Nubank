@@ -10,7 +10,7 @@
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
-### Agendamento de pagamento
+### Agendamento de pagamentos
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-pagamento-php-2020-02-12-22_25_03](https://user-images.githubusercontent.com/48317736/74392614-86f15080-4de6-11ea-9a6b-e7c81677b455.png)
 
 ### Histórico de agendamentos
