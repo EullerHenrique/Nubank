@@ -32,6 +32,9 @@
 ### Abertura de chamados
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-09-SUPORTE-abrir-chamado-php-2020-02-12-21_23_55](https://user-images.githubusercontent.com/48317736/74389761-0169a280-4dde-11ea-8aa1-f55c28d5c1b1.png)
 
+### Consulta de chamados
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-09-SUPORTE-consultar-chamado-php-2020-02-12-21_33_39](https://user-images.githubusercontent.com/48317736/74390270-82756980-4ddf-11ea-8f0d-e972718bf0e4.png)
+
 
 
 
