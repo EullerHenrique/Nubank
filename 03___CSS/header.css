@@ -1,0 +1,24 @@
+li:hover {
+    border-left: 3px solid #e1ffff;
+}
+
+.menu li a:hover{
+    background-color: #8A05BE;
+}
+
+.submenu li a:hover{
+    background-color: cornflowerblue;
+}
+
+
+.toggle-btn {
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+    top: 6px;
+    padding: 3px;
+    width: 40px;
+    text-align: center;
+    background-color: #2e353d;
+    border-radius: 4px;
+}
