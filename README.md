@@ -64,8 +64,8 @@
 
 
 ## E-mail
-#### O envio de e-mai foi desenvolvidas com base no Projeto Send Mail (App para criação e envio de e-mails) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com orientação a objetos e PHP Mailer(framework destinada ao envio de e-mails).
+#### O envio de E-mail foi desenvolvido com base no Projeto Send Mail (App para criação e envio de e-mails) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com orientação a objetos e PHP Mailer (framework destinada ao envio de e-mails).
 
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-14_20_30 (1)](https://user-images.githubusercontent.com/48317736/76106476-b34b5780-5fb5-11ea-8020-aaf0f4607f3f.png)
 
