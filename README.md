@@ -1,4 +1,6 @@
-###### https://eullerhenrique.000webhostapp.com/
+## Site online:
+
+###### http://nubank.rf.gd/
 
 ## Página principal
 
@@ -62,15 +64,26 @@
 ### Consulta de chamados
 ![screencapture-nubank-rf-gd-09-SUPORTE-consultar-chamado-php-2020-03-06-14_08_38](https://user-images.githubusercontent.com/48317736/76105633-0f14e100-5fb4-11ea-8ab2-44be2eb2f271.png)
 
-
 ## E-mail
 #### O envio de E-mail foi desenvolvido com base no Projeto Send Mail (App para criação e envio de e-mails) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com orientação a objetos e PHP Mailer (framework destinada ao envio de e-mails).
 
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-14_20_30 (1)](https://user-images.githubusercontent.com/48317736/76106476-b34b5780-5fb5-11ea-8020-aaf0f4607f3f.png)
 
+## Lembretes de pagamentos
 
+#### O acesso aos pagamentos pendentes, a criação de um novo lembrete e o acesso a todos os lembretes foram desenvolvidos com base no Projeto Lista de Tarefas (PHP com PDO e MySQL) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com PDO e MySql.
+##### Obs: Os dados são armazenados em um banco de dados.
 
+### Pagamentos pendentes
+![screencapture-nubank-rf-gd-13-LEMBRETES-index-php-2020-03-06-14_38_09](https://user-images.githubusercontent.com/48317736/76107842-438a9c00-5fb8-11ea-884c-9ff16ccf18d9.png)
+
+### Novo lembrete
+![screencapture-nubank-rf-gd-13-LEMBRETES-PHP-PAGES-nova-tarefa-php-2020-03-06-14_38_19](https://user-images.githubusercontent.com/48317736/76107844-44bbc900-5fb8-11ea-8f99-4ac2917d52ea.png)
+
+### Todos lembretes
+![screencapture-nubank-rf-gd-13-LEMBRETES-PHP-PAGES-todas-tarefas-php-2020-03-06-14_38_37](https://user-images.githubusercontent.com/48317736/76107848-45ecf600-5fb8-11ea-867d-224f18903efe.png)
 
 
 
