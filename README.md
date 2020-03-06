@@ -1,6 +1,6 @@
 ###### https://eullerhenrique.000webhostapp.com/
 
-#### Página principal
+### Página principal
 
 #### A página principal foi desenvolvida com base no projeto Finans do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).	
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS e BOOTSTRAP 4.
@@ -38,14 +38,16 @@
 ###### Obs 1: O usuário possui acesso ao menu "Lembretes de pagamentos", ao menu "Agendamento" e ao menu "Suporte".
 ###### Obs 2: No menu "Suporte" o usuário possui acesso somente aos seu prórios chamados.
 
-#### O agendamento e a consulta de pagamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+### Agendamento de pagamento e consulta de agendamentos
+
+#### O agendamento de pagamento e a consulta de agendamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
 ### Agendamento de pagamentos
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-pagamento-php-2020-02-13-01_38_31](https://user-images.githubusercontent.com/48317736/74401949-9205aa00-4e01-11ea-813a-6f839b4e69fe.png)
 
-### Histórico de agendamentos
+### Consulta de agendamentos
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-consulta-php-2020-02-12-22_29_57](https://user-images.githubusercontent.com/48317736/74392872-362e2780-4de7-11ea-9e8f-aef246155427.png)
 
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
