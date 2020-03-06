@@ -28,11 +28,13 @@
 ### Página de um administrador
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-13_41_17](https://user-images.githubusercontent.com/48317736/76103275-2c47b080-5fb0-11ea-81ee-c402514ba8cf.png)
 
-###### Obs: O administrador tem acesso aos chamados de todos os usuários, mas não tem acesso ao menu de agendamento.
+###### Obs 1: O administrador possui acesso ao menu "E-mail" e ao menu "Suporte".
+###### Obs 2: No menu "Suporte" o administrador possui acesso aos chamados de todos os usuários.
 
 ### Página de um usuário
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-13_39_43](https://user-images.githubusercontent.com/48317736/76103156-f7d3f480-5faf-11ea-92b2-2053dc060933.png)
-###### Obs: O usuário tem acesso aos seus chamados e ao menu de agendamento.
+###### Obs 1: O usuário possui acesso ao menu "Lembretes de pagamentos", ao menu "Agendamento" e ao menu "Suporte".
+###### Obs 2: No menu "Suporte" o usuário possui acesso somente aos seu prórios chamados.
 
 #### O agendamento e a consulta de pagamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
