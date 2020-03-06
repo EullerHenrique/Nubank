@@ -41,7 +41,7 @@
 ## Agendamentos
 
 #### O agendamento de pagamento e a consulta de agendamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com orietanção a objetos.
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
 #### Agendamento de pagamentos
@@ -53,7 +53,7 @@
 ## Suporte
 
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT, JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) e PHP
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP
 ##### Obs: Os dados são armazenados em um arquivo txt 
 
 ### Abertura de chamados
@@ -61,6 +61,16 @@
 
 ### Consulta de chamados
 ![screencapture-nubank-rf-gd-09-SUPORTE-consultar-chamado-php-2020-03-06-14_08_38](https://user-images.githubusercontent.com/48317736/76105633-0f14e100-5fb4-11ea-8ab2-44be2eb2f271.png)
+
+
+## E-mail
+#### O envio de e-mai foi desenvolvidas com base no Projeto Send Mail (App para criação e envio de e-mails) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com orientação a objetos e PHP Mailer(framework destinada ao envio de e-mails).
+
+![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-14_20_30 (1)](https://user-images.githubusercontent.com/48317736/76106476-b34b5780-5fb5-11ea-8020-aaf0f4607f3f.png)
+
+
+
 
 
 
