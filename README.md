@@ -30,7 +30,7 @@
 ###### Obs: O administrador tem acesso aos chamados de todos os usuários, mas não tem acesso ao menu de agendamento.
 
 ### Página de um usuário
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-21_05_21](https://user-images.githubusercontent.com/48317736/74389011-ad5dbe80-4ddb-11ea-8cd1-d9dc152817fc.png)
+![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-13_39_43](https://user-images.githubusercontent.com/48317736/76103156-f7d3f480-5faf-11ea-92b2-2053dc060933.png)
 ###### Obs: O usuário tem acesso aos seus chamados e ao menu de agendamento.
 
 #### O agendamento e a consulta de pagamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
