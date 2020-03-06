@@ -45,7 +45,6 @@
 #### O agendamento de pagamento e a consulta de agendamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com orietanção a objetos.
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
-<<<<<<< HEAD
 
 #### Agendamento de pagamentos
 ![screencapture-nubank-rf-gd-08-AGENDAMENTO-agendamento-php-2020-03-06-13_52_42](https://user-images.githubusercontent.com/48317736/76104247-c8be8280-5fb1-11ea-9ca5-1057d1c94ab9.png)
@@ -54,8 +53,6 @@
 ![screencapture-nubank-rf-gd-08-AGENDAMENTO-consulta-php-2020-03-06-14_00_11](https://user-images.githubusercontent.com/48317736/76104959-fd7f0980-5fb2-11ea-80c7-f020b1740585.png)
 
 ## Suporte
-
-=======
 
 #### Agendamento de pagamentos
 ![screencapture-nubank-rf-gd-08-AGENDAMENTO-agendamento-php-2020-03-06-13_52_42](https://user-images.githubusercontent.com/48317736/76104247-c8be8280-5fb1-11ea-9ca5-1057d1c94ab9.png)
