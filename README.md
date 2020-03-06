@@ -5,21 +5,6 @@
 
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-05-BOOTSTRAP-24-Projeto-Nubank-HTML-2020-01-27-12_01_19](https://user-images.githubusercontent.com/48317736/73185407-c4729000-40fc-11ea-9fa3-79613bb7edf9.png)
 
-
-#### O agendamento e a consulta de pagamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
-##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
-
-### Agendamento de pagamentos
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-pagamento-php-2020-02-13-01_38_31](https://user-images.githubusercontent.com/48317736/74401949-9205aa00-4e01-11ea-813a-6f839b4e69fe.png)
-
-### Histórico de agendamentos
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-consulta-php-2020-02-12-22_29_57](https://user-images.githubusercontent.com/48317736/74392872-362e2780-4de7-11ea-9e8f-aef246155427.png)
-
-#### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
-##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT, JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) e PHP
-##### Obs: Os dados são armazenados em um arquivo txt 
-
 ### Página de login
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-login-php-2020-03-06-13_37_27](https://user-images.githubusercontent.com/48317736/76103010-b2172c00-5faf-11ea-8773-8a2e654afd4f.png)
 
@@ -47,6 +32,20 @@
 ### Página de um usuário
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-21_05_21](https://user-images.githubusercontent.com/48317736/74389011-ad5dbe80-4ddb-11ea-8cd1-d9dc152817fc.png)
 ###### Obs: O usuário tem acesso aos seus chamados e ao menu de agendamento.
+
+#### O agendamento e a consulta de pagamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6).
+##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
+
+### Agendamento de pagamentos
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-pagamento-php-2020-02-13-01_38_31](https://user-images.githubusercontent.com/48317736/74401949-9205aa00-4e01-11ea-813a-6f839b4e69fe.png)
+
+### Histórico de agendamentos
+![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-08-AGENDAMENTO-consulta-php-2020-02-12-22_29_57](https://user-images.githubusercontent.com/48317736/74392872-362e2780-4de7-11ea-9e8f-aef246155427.png)
+
+#### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS, BOOTSTRAP 4, JAVASCRIPT, JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) e PHP
+##### Obs: Os dados são armazenados em um arquivo txt 
 
 ### Abertura de chamados
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-09-SUPORTE-abrir-chamado-php-2020-02-12-21_23_55](https://user-images.githubusercontent.com/48317736/74389761-0169a280-4dde-11ea-8aa1-f55c28d5c1b1.png)
