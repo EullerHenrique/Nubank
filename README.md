@@ -98,11 +98,6 @@
 ![screencapture-nubank-rf-gd-13-LEMBRETES-PHP-PAGES-todas-tarefas-php-2020-03-06-14_38_37](https://user-images.githubusercontent.com/48317736/76107848-45ecf600-5fb8-11ea-867d-224f18903efe.png)
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ee06164b6b474300f612de34e1d0888a10506c1
-
 
 
 
