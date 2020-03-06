@@ -26,7 +26,8 @@
 ###### Senha: 1234
 
 ### Página de um administrador
-![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-08-PHP-31-PROJETO-NUBANK-PARTE-03-07-PAGINAS-PRINCIPAIS-home-php-2020-02-12-22_33_36](https://user-images.githubusercontent.com/48317736/74393065-b9e81400-4de7-11ea-9550-71ab407619a4.png)
+![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-13_41_17](https://user-images.githubusercontent.com/48317736/76103275-2c47b080-5fb0-11ea-81ee-c402514ba8cf.png)
+
 ###### Obs: O administrador tem acesso aos chamados de todos os usuários, mas não tem acesso ao menu de agendamento.
 
 ### Página de um usuário
