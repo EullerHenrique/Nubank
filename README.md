@@ -62,7 +62,6 @@
 
 ## Suporte
 
->>>>>>> 1ee06164b6b474300f612de34e1d0888a10506c1
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP
 ##### Obs: Os dados são armazenados em um arquivo txt 
