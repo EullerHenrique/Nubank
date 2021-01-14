@@ -1,7 +1,3 @@
-## Site online:
-
-###### http://nubank.rf.gd/
-
 ## Página principal
 
 #### A página principal foi desenvolvida com base no projeto Finans do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).	
