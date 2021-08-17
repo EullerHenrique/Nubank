@@ -1,6 +1,8 @@
 ## Página principal
 
 #### A página principal foi desenvolvida com base no projeto Finans do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).	
+- Obs: Em comparação ao projeto base, diversas alterações foram realizadas.
+
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a HTML, CSS e BOOTSTRAP 4.
 
 ![screencapture-localhost-euller-CURSO-DESENVOLVIMENTO-WEB-05-BOOTSTRAP-24-Projeto-Nubank-HTML-2020-01-27-12_01_19](https://user-images.githubusercontent.com/48317736/73185407-c4729000-40fc-11ea-9fa3-79613bb7edf9.png)
@@ -39,6 +41,8 @@
 ## Agendamentos
 
 #### O agendamento de pagamento e a consulta de agendamentos foram desenvolvidos com base no Projeto Orçamento Pessoal (App para controle pessoal de finanças) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+- Obs: Em comparação ao projeto base, diversas alterações foram realizadas.
+
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a JAVASCRIPT e JAVASCRIPT MODERNO (ECMASCRIPT 2015 - ES6) com orietanção a objetos.
 ##### Obs: Os dados são armazenados em um banco de dados local, ou seja, o LocalStorage presente nos navegadores.
 
@@ -50,15 +54,8 @@
 
 ## Suporte
 
-#### Agendamento de pagamentos
-![screencapture-nubank-rf-gd-08-AGENDAMENTO-agendamento-php-2020-03-06-13_52_42](https://user-images.githubusercontent.com/48317736/76104247-c8be8280-5fb1-11ea-9ca5-1057d1c94ab9.png)
-
-#### Consulta de agendamentos
-![screencapture-nubank-rf-gd-08-AGENDAMENTO-consulta-php-2020-03-06-14_00_11](https://user-images.githubusercontent.com/48317736/76104959-fd7f0980-5fb2-11ea-80c7-f020b1740585.png)
-
-## Suporte
-
 #### A abertura e a consulta de chamados foram desenvolvidas com base no Projeto Help Desk  (App para abertura e acompanhamento de suportes técnicos) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+- Obs: Em comparação ao projeto base, diversas alterações foram realizadas.
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP
 ##### Obs: Os dados são armazenados em um arquivo txt 
 
@@ -70,6 +67,7 @@
 
 ## E-mail
 #### O envio de E-mail foi desenvolvido com base no Projeto Send Mail (App para criação e envio de e-mails) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+- Obs: Em comparação ao projeto base, diversas alterações foram realizadas.
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com orientação a objetos e PHP Mailer (framework destinada ao envio de e-mails).
 
 ![screencapture-nubank-rf-gd-07-LOGIN-HOME-home-php-2020-03-06-14_20_30 (1)](https://user-images.githubusercontent.com/48317736/76106476-b34b5780-5fb5-11ea-8020-aaf0f4607f3f.png)
@@ -77,6 +75,7 @@
 ## Lembretes de pagamentos
 
 #### O acesso aos pagamentos pendentes, a criação de um novo lembrete e o acesso a todos os lembretes foram desenvolvidos com base no Projeto Lista de Tarefas (PHP com PDO e MySQL) do curso [Desenvolvimento Web Completo](https://www.udemy.com/course/web-completo/).
+##### Obs: Em comparação ao projeto base, diversas alterações foram realizadas.
 ##### O foco desse projeto foi aplicar conhecimentos adquiridos ao longo do curso relacionados a PHP com PDO e MySql.
 ##### Obs: Os dados são armazenados em um banco de dados.
 
